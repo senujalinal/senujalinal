@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>🎓 I'm a Master's student in Information Technology (Information Systems) at Charles Darwin University, Australia.<br><br>💻 I'm currently working on:<br>- AI-powered student job platform<br>- ERP testing and QA projects<br>- React & Flutter applications<br>- YouTube automation and AI workflow projects<br><br>🤝 I'm looking to collaborate on:<br>- AI applications<br>- SaaS products<br>- Full-stack web & mobile development<br>- Open-source projects<br><br>🌱 I'm currently learning:<br>- React<br>- Flutter<br>- AI Agents & n8n Automation<br>- Cloud Technologies (AWS & Azure)<br>- System Design & DevOps<br><br>💬 Ask me about:<br>- Web Development<br>- Mobile App Development<br>- Python Automation<br>- ERP Testing & QA<br>- Information Systems<br>- AI Productivity Tools<br><br>⚡ Fun fact:<br>I enjoy building multiple tech projects at once—from AI-powered applications to automation workflows—and turning ideas into real products.
+## 👋 About Me<br><br>I'm an aspiring Software Engineer and Information Systems professional passionate about building practical software, AI-powered tools, and scalable web applications. I enjoy working across the full development lifecycle—from planning and development to testing and automation.<br><br>My interests include full-stack development, AI integration, workflow automation, cloud technologies, and creating products that solve real-world problems. I'm always exploring new technologies and looking for opportunities to collaborate and grow as a developer.<br><br><br>
 
 
 ## 🌐 Socials:
@@ -12,25 +12,13 @@
 ![](https://streak-stats.demolab.com/?user=senujalinal&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=senujalinal&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=senujalinal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=senujalinal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=senujalinal&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**senujalinal/senujalinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
