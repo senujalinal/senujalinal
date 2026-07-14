@@ -12,12 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=senujalinal&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=senujalinal&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=senujalinal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://komarev.com/ghpvc/?username=senujalinal&icon=5&color=9)](https://visitcount.itsvg.in)
 
