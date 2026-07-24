@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">Senuja Linal visual map</title>
+  <desc id="desc">A cyber-style map connecting Senuja's education, engineering focus, cloud work, data systems, and portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080c18"/><stop offset="1" stop-color="#0a1720"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9b5de5"/><stop offset="1" stop-color="#00f5d4"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .mono{font-family:monospace}
+      .node{fill:#0d1426;stroke:#324263;stroke-width:1.5}
+      .label{fill:#f0f5ff;font-size:18px;font-weight:700}
+      .sub{fill:#8ea0bf;font-size:14px}
+      .dot{animation:pulse 2.6s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+      @media (prefers-reduced-motion:reduce){.dot{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="470" rx="22" fill="#080c18"/>
+  <path d="M36 75H1164M36 412H1164" stroke="#344664"/>
+  <text x="50" y="48" fill="#80ffdb" font-size="16" class="mono">[ VISUAL_MAP / ACTIVE_PATHS ]</text>
+  <text x="1150" y="48" fill="#657795" font-size="13" text-anchor="end" class="mono">NODE_GRAPH v1.0</text>
+
+  <g fill="none" stroke="#526ba0" stroke-width="2" stroke-opacity=".8">
+    <path d="M265 168C380 168 410 233 520 233"/>
+    <path d="M265 326C380 326 410 255 520 255"/>
+    <path d="M680 233C790 233 815 153 930 153"/>
+    <path d="M680 255C790 255 815 335 930 335"/>
+  </g>
+  <g fill="#00f5d4" filter="url(#glow)">
+    <circle class="dot" cx="375" cy="191" r="4"/>
+    <circle class="dot" cx="385" cy="300" r="4" style="animation-delay:.5s"/>
+    <circle class="dot" cx="790" cy="197" r="4" style="animation-delay:1s"/>
+    <circle class="dot" cx="800" cy="300" r="4" style="animation-delay:1.5s"/>
+  </g>
+
+  <g class="mono">
+    <rect class="node" x="65" y="116" width="200" height="104" rx="14"/>
+    <circle cx="92" cy="143" r="7" fill="#9b5de5"/>
+    <text class="label" x="112" y="150">CDU</text>
+    <text class="sub" x="88" y="180">Master of IT</text>
+    <text class="sub" x="88" y="202">Information Systems</text>
+
+    <rect class="node" x="65" y="274" width="200" height="104" rx="14"/>
+    <circle cx="92" cy="301" r="7" fill="#72ddf7"/>
+    <text class="label" x="112" y="308">SWINBURNE</text>
+    <text class="sub" x="88" y="338">Bachelor of</text>
+    <text class="sub" x="88" y="360">Computer Science</text>
+
+    <rect x="500" y="188" width="200" height="114" rx="18" fill="#101a2d" stroke="#00f5d4" stroke-width="2"/>
+    <circle cx="600" cy="218" r="8" fill="#00f5d4" filter="url(#glow)"/>
+    <text x="600" y="252" fill="#f5fbff" font-size="20" font-weight="700" text-anchor="middle" class="mono">ENGINEERING</text>
+    <text x="600" y="280" fill="#80ffdb" font-size="14" text-anchor="middle" class="mono">BUILD · LEARN · ITERATE</text>
+
+    <rect class="node" x="930" y="101" width="205" height="104" rx="14"/>
+    <circle cx="957" cy="128" r="7" fill="#00f5d4"/>
+    <text class="label" x="977" y="135">SYSTEMS</text>
+    <text class="sub" x="953" y="165">cloud · data · web</text>
+    <text class="sub" x="953" y="187">software · automation</text>
+
+    <rect class="node" x="930" y="283" width="205" height="104" rx="14"/>
+    <circle cx="957" cy="310" r="7" fill="#9b5de5"/>
+    <text class="label" x="977" y="317">PORTFOLIO</text>
+    <text class="sub" x="953" y="347">senujalinal.me</text>
+    <text class="sub" x="953" y="369">selected work ↗</text>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="468.5" rx="21.25" fill="none" stroke="#293958" stroke-width="1.5"/>
+</svg>

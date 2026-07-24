@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Senuja Linal — software engineer and information systems professional</title>
+  <desc id="desc">A dark cyber terminal header with Senuja Linal's name and study focus.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b17"/>
+      <stop offset=".52" stop-color="#10142a"/>
+      <stop offset="1" stop-color="#071d24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#9b5de5"/>
+      <stop offset=".5" stop-color="#00f5d4"/>
+      <stop offset="1" stop-color="#72ddf7"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#82ffe8" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:monospace}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      .scan{animation:scan 8s linear infinite}
+      @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+      @keyframes scan{from{transform:translateY(-100px)}to{transform:translateY(460px)}}
+      @media (prefers-reduced-motion:reduce){.pulse,.scan{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="#080c18"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M0 300C210 245 335 355 565 295S940 220 1200 280V360H0Z" fill="#00f5d4" opacity=".035"/>
+  <rect class="scan" x="0" y="-70" width="1200" height="70" fill="url(#accent)" opacity=".035"/>
+
+  <g opacity=".75">
+    <circle cx="1040" cy="90" r="92" fill="none" stroke="#00f5d4" stroke-opacity=".12"/>
+    <circle cx="1040" cy="90" r="64" fill="none" stroke="#9b5de5" stroke-opacity=".18" stroke-dasharray="6 12"/>
+    <path d="M970 90h140M1040 20v140" stroke="#72ddf7" stroke-opacity=".12"/>
+    <circle class="pulse" cx="1040" cy="90" r="7" fill="#00f5d4" filter="url(#glow)"/>
+  </g>
+
+  <g transform="translate(55 45)">
+    <rect width="900" height="270" rx="16" fill="#090d1b" stroke="#273354"/>
+    <path d="M0 44H900" stroke="#273354"/>
+    <circle cx="25" cy="22" r="6" fill="#ff5f57"/>
+    <circle cx="47" cy="22" r="6" fill="#febc2e"/>
+    <circle cx="69" cy="22" r="6" fill="#28c840"/>
+    <text x="450" y="28" fill="#7083a6" text-anchor="middle" font-size="13" class="mono">senuja@github: ~/profile</text>
+
+    <text x="34" y="86" fill="#7b8baa" font-size="16" class="mono">$ whoami</text>
+    <text x="34" y="142" fill="#f6f7fb" font-size="48" font-weight="700" class="mono">SENUJA LINAL</text>
+    <rect x="34" y="158" width="600" height="3" rx="2" fill="#00f5d4"/>
+    <text x="34" y="196" fill="#80ffdb" font-size="19" class="mono">software engineering × information systems</text>
+    <text x="34" y="230" fill="#a9b6ce" font-size="16" class="mono">Master of IT (Information Systems) · CDU</text>
+    <text x="34" y="258" fill="#a9b6ce" font-size="16" class="mono">BSc Computer Science · Swinburne</text>
+    <rect class="pulse" x="666" y="183" width="11" height="21" fill="#00f5d4"/>
+  </g>
+
+  <g class="mono" font-size="13" fill="#80ffdb">
+    <text x="1000" y="222">SIGNAL: ONLINE</text>
+    <text x="1000" y="248" fill="#8ea0bf">BUILDING / LEARNING</text>
+    <path d="M1000 264h135" stroke="#273354"/>
+    <text x="1000" y="288" fill="#9b5de5">DARWIN · AU</text>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="358.5" rx="23.25" fill="none" stroke="#00f5d4" stroke-opacity=".45" stroke-width="1.5"/>
+</svg>

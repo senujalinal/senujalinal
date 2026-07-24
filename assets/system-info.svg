@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Senuja Linal system information</title>
+  <desc id="desc">A terminal-inspired system panel showing Senuja's role, education, focus areas, and current status.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090d1a"/><stop offset="1" stop-color="#111526"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9b5de5"/><stop offset=".5" stop-color="#00f5d4"/><stop offset="1" stop-color="#72ddf7"/></linearGradient>
+    <style>
+      .mono{font-family:monospace}
+      .key{fill:#80ffdb;font-size:17px}
+      .value{fill:#e8eefb;font-size:17px}
+      .muted{fill:#8ea0bf;font-size:15px}
+    </style>
+  </defs>
+  <rect width="1200" height="500" rx="22" fill="#090d1a"/>
+  <rect x="38" y="32" width="1124" height="436" rx="15" fill="#080c17" stroke="#2b3754"/>
+  <path d="M38 82H1162" stroke="#2b3754"/>
+  <circle cx="64" cy="57" r="6" fill="#ff5f57"/>
+  <circle cx="86" cy="57" r="6" fill="#febc2e"/>
+  <circle cx="108" cy="57" r="6" fill="#28c840"/>
+  <text x="600" y="63" fill="#7083a6" font-size="14" text-anchor="middle" class="mono">system-info --user senujalinal</text>
+
+  <g class="mono">
+    <text x="78" y="126" fill="#9b5de5" font-size="18">$ profile --status</text>
+
+    <text class="key" x="78" y="173">identity</text>
+    <text class="value" x="260" y="173">Senuja Linal</text>
+    <text class="key" x="78" y="213">role</text>
+    <text class="value" x="260" y="213">Software Engineering + Information Systems</text>
+    <text class="key" x="78" y="253">current</text>
+    <text class="value" x="260" y="253">Master of IT (Information Systems) · CDU</text>
+    <text class="key" x="78" y="293">foundation</text>
+    <text class="value" x="260" y="293">Bachelor of Computer Science · Swinburne</text>
+    <text class="key" x="78" y="333">focus</text>
+    <text class="value" x="260" y="333">practical software · cloud · data systems</text>
+    <text class="key" x="78" y="373">mode</text>
+    <text class="value" x="260" y="373">building, learning, collaborating</text>
+
+    <text x="78" y="424" fill="#7f90ad" font-size="15">[</text>
+    <rect x="94" y="411" width="420" height="15" rx="7.5" fill="#18243b"/>
+    <rect x="94" y="411" width="420" height="15" rx="7.5" fill="#00f5d4" opacity=".9"/>
+    <text x="526" y="424" fill="#7f90ad" font-size="15">]</text>
+    <text x="558" y="424" fill="#80ffdb" font-size="15">READY</text>
+    <text x="1085" y="424" fill="#697c9c" font-size="14" text-anchor="end">senujalinal.me ↗</text>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="498.5" rx="21.25" fill="none" stroke="#9b5de5" stroke-opacity=".32" stroke-width="1.5"/>
+</svg>
