@@ -12,17 +12,17 @@
   <a href="https://www.linkedin.com/in/senujalinal"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-connect-72ddf7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020"/></a>
 </div>
 
-## `01 // visual_map`
+## ` // visual_map`
 
 <a href="https://senujalinal.me">
   <img src="./assets/visual-map.svg" width="100%" alt="Visual map of Senuja's education, engineering interests, and portfolio"/>
 </a>
 
-## `02 // system_info`
+## ` // system_info`
 
 <img src="./assets/system-info.svg" width="100%" />
 
-## `03 // technology_matrix`
+## ` // technology_matrix`
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 </div>
 
-## `04 // portfolio_and_contact`
+## ` // portfolio_and_contact`
 
 ```text
 > open ./portfolio
@@ -74,15 +74,9 @@
   </a>
 </div>
 
-## `05 // github_telemetry`
 
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senujalinal&theme=github_dark" alt="Senuja's GitHub profile statistics"/>
-  <br/>
-  <img width="100%" src="https://streak-stats.demolab.com?user=senujalinal&theme=transparent&hide_border=true&ring=00F5D4&fire=9B5DE5&currStreakLabel=80FFDB&sideLabels=72DDF7&dates=8EA0BF&stroke=273354" alt="Senuja's GitHub contribution streak"/>
-</div>
 
-## `06 // contribution_signal`
+## ` // contribution_signal`
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=senujalinal&bg_color=0b1020&color=80ffdb&line=9b5de5&point=00f5d4&area=true&hide_border=true&custom_title=Contribution%20Signal" alt="Senuja's GitHub contribution activity graph"/>
