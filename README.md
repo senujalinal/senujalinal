@@ -12,13 +12,13 @@
   <a href="https://www.linkedin.com/in/senujalinal"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-connect-72ddf7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020"/></a>
 </div>
 
-## ` // visual_map`
+## ` Visual_Map`
 
 <a href="https://senujalinal.me">
   <img src="./assets/visual-map.svg" width="100%" alt="Visual map of Senuja's education, engineering interests, and portfolio"/>
 </a>
 
-## ` // system_info`
+## `System_Info`
 
 <img src="./assets/system-info.svg" width="100%" />
 
@@ -56,7 +56,7 @@
 
 </div>
 
-## ` // portfolio_and_contact`
+## ` Portfolio_and_contact`
 
 ```text
 > open ./portfolio
@@ -76,7 +76,7 @@
 
 
 
-## ` // contribution_signal`
+## ` // Contribution_signal`
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=senujalinal&bg_color=0b1020&color=80ffdb&line=9b5de5&point=00f5d4&area=true&hide_border=true&custom_title=Contribution%20Signal" alt="Senuja's GitHub contribution activity graph"/>
