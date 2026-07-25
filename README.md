@@ -20,7 +20,7 @@
 
 ## `02 // system_info`
 
-<img src="./assets/system-info.svg" width="100%" alt="Terminal-style system information panel for Senuja Linal"/>
+<img src="./assets/system-info.svg" width="100%" />
 
 ## `03 // technology_matrix`
 
