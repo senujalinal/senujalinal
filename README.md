@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://senujalinal.me">
-    <img src="./assets/cyber-header.svg" width="100%" alt="Senuja Linal — Software Engineering and Information Systems"/>
+    <img src="./assets/cyber-header.svg" width="100%" alt="Senuja Linal — Computer Science and Information Systems"/>
   </a>
 </div>
 
