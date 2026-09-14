@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Senuja Linal — software engineer and information systems professional</title>
+  <title id="title">Senuja Linal — computer science and information systems student</title>
   <desc id="desc">A dark cyber terminal header with Senuja Linal's name and study focus.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -51,7 +51,7 @@
     <text x="34" y="86" fill="#7b8baa" font-size="16" class="mono">$ whoami</text>
     <text x="34" y="142" fill="#f6f7fb" font-size="48" font-weight="700" class="mono">SENUJA LINAL</text>
     <rect x="34" y="158" width="600" height="3" rx="2" fill="#00f5d4"/>
-    <text x="34" y="196" fill="#80ffdb" font-size="19" class="mono">software engineering × information systems</text>
+    <text x="34" y="196" fill="#80ffdb" font-size="19" class="mono">computer science × information systems</text>
     <text x="34" y="230" fill="#a9b6ce" font-size="16" class="mono">Master of IT (Information Systems) · CDU</text>
     <text x="34" y="258" fill="#a9b6ce" font-size="16" class="mono">BSc Computer Science · Swinburne</text>
     <rect class="pulse" x="666" y="183" width="11" height="21" fill="#00f5d4"/>
